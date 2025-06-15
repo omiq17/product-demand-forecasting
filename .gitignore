@@ -1,0 +1,14 @@
+# Excel files
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.xlsb
+
+# Excel backup files
+*.xlk 

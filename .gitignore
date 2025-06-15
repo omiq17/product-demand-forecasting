@@ -12,7 +12,3 @@
 
 # Excel backup files
 *.xlk 
-
-!data/
-data/*.xlsx
-
